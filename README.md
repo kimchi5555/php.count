@@ -20,3 +20,8 @@ PHP 프로그램과 MYSQL(MariaDB)을 연동하여 구현하였습니다.
 
 
 ![image](https://user-images.githubusercontent.com/89557192/170020319-eb0f602c-1ba0-4731-95c9-548e2269ac5a.png)
+
+
+# 테이블 구조
+
+![image](https://user-images.githubusercontent.com/89557192/170020624-aa83d32e-63cf-46a3-9fe1-4ebbcbe2f72a.png)
